@@ -1,5 +1,6 @@
 #  Welcome To My Profile💫
 Hello, My name is Jeremy Purukan<br>Im currently studying<br>passionate to become a Fullstack developer & Data Scientist
+
 Philippians 4:13 "I can do everything through Him who gives Me strength."
 
 
