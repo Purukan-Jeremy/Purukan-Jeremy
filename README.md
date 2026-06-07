@@ -1,8 +1,6 @@
 #  Welcome To My Profile💫
 Hello, My name is Jeremy Purukan<br>Im currently studying<br>passionate to become a Fullstack developer & Data Scientist
 
-Philippians 4:13 "I can do everything through Him who gives Me strength."
-
 
 ## 🌐 My Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/drvnxt/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremy-purukan-0322a3252/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@dravenixt) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@cveon03) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeremypurukan@gmail.com) 
